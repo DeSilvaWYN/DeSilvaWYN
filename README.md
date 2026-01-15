@@ -1,6 +1,5 @@
- 👋 Hi, I’m Yasathma De Silva  
-👨‍💻 Software Developer | Fintech enthusiast       
-🔧 ASP.NET • C# • SQL • JavaScript      
-🚀 Building enterprise solutions and exploring new technologies        
-💡 Always learning, always improving
-
+🎓 Graduate - University of Sri Jayewardenepura              
+💼 2+ years building enterprise fintech solutions with Microsoft technologies                
+🔧 ASP.NET • C# • SQL • Object-Oriented Programming • Performance Optimization              
+🚀 Passionate problem-solver focused on scalable architecture and continuous learning              
+💡 Open to collaboration and exploring emerging technologies
